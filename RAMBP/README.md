@@ -19,7 +19,6 @@ For using the RAMBP with a folder that contains many classes of textures:
 * RAMBP_main(dirname,infile, outfile)<br/>
 * Where :
   * dirname is the folder directory
-  * outfile to generate a txt file where are the results will be saved.
   * infile is a txt file contains:
     * number of images
     * number of classes
@@ -27,4 +26,6 @@ For using the RAMBP with a folder that contains many classes of textures:
     * second_image_name second_image_class
     * .....        
     * last_image_name last_image_class
+  * outfile to generate a txt file where are the results will be saved.
+
        
