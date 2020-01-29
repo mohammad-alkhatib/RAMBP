@@ -1,6 +1,6 @@
 # KNN code (C++)
 
-In our work we use KNN to evaluate the proposed RAMBP.
+In our work we use KNN to evaluate the proposed RAMBP and to compare it with other descriptors.
 
 # Usage
 #!/bin/sh
