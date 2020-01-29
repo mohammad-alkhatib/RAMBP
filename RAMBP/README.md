@@ -4,7 +4,7 @@ Matlab implementation of RAMBP.
 
 # Usage
 
-For using the RAMBP with image:
+For using the RAMBP with an image:
 * RAMBP_results = RAMBP(Image,MODE)
 * Where MODE is: 
   * 0  to get RAMBP image
@@ -12,16 +12,16 @@ For using the RAMBP with image:
   * 'nh'           to get a normalized histogram
        
 
-For using the RAMBP with folder contains many classes of textures:<br/>
-RAMBP_main(dirname,infile, outfile)<br/>
-Where :
-* dirname is the folder directory
-* outfile to generate a txt file where are the results will be saved.
-* infile is a txt file contains:
-  * number of images
-  * number of classes
-  * first_image_name first_image_class
-  * second_image_name second_image_class
-  * .....        
-  * last_image_name last_image_class
+For using the RAMBP with a folder that contains many classes of textures:
+* RAMBP_main(dirname,infile, outfile)<br/>
+* Where :
+  * dirname is the folder directory
+  * outfile to generate a txt file where are the results will be saved.
+  * infile is a txt file contains:
+    * number of images
+    * number of classes
+    * first_image_name first_image_class
+    * second_image_name second_image_class
+    * .....        
+    * last_image_name last_image_class
        
