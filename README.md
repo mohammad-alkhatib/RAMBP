@@ -14,12 +14,12 @@ https://ieeexplore.ieee.org/abstract/document/8718516<br/>
 
 Please cite the above publication if you use the code or compare with the RAMBP descriptor in your work. Bibtex entry:<br/>
 @article{alkhatib2019robust,<br/>
-  title={Robust Adaptive Median Binary Pattern for noisy texture classification and retrieval},<br/>
-  author={Alkhatib, Mohammad and Hafiane, Adel},<br/>
-  journal={IEEE Transactions on Image Processing},<br/>
-  volume={28},<br/>
-  number={11},<br/>
-  pages={5407--5418},<br/>
-  year={2019},<br/>
-  publisher={IEEE}<br/>
+    title={Robust Adaptive Median Binary Pattern for noisy texture classification and retrieval},<br/>
+    author={Alkhatib, Mohammad and Hafiane, Adel},<br/>
+    journal={IEEE Transactions on Image Processing},<br/>
+    volume={28},<br/>
+    number={11},<br/>
+    pages={5407--5418},<br/>
+    year={2019},<br/>
+    publisher={IEEE}<br/>
 }
