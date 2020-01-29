@@ -1,3 +1,5 @@
 *.pbxproj binary merge=union
 # to add language of repo MATLAB
 *.m linguist-language=Matlab
+*.cpp linguist-detectable=false
+*.m linguist-detectable=true
