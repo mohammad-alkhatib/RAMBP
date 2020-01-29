@@ -5,7 +5,7 @@
 
 function Result = RAMBP(varargin) 
 %  Robust Adaptive Median Binary Pattern
-%  Result = RAMBPC(I,MODE) 
+%  Result = RAMBP(I,MODE) 
 %  MODE : 
 %        0  to get RAMBP image
 %       'h' or 'hist'  to get a histogram of RAMBP 

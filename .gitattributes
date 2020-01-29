@@ -1,0 +1,3 @@
+*.pbxproj binary merge=union
+# to change language of repo from c++ to MATLAB
+*.js linguist-language=MATLAB
