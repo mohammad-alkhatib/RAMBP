@@ -1,3 +1,8 @@
+KNN code (C++)
+
+In our work we use KNN to evaluate the proposed RAMBP.
+
+# Usage
 #!/bin/sh
 sudo chmod +x knn
 ./knn help
