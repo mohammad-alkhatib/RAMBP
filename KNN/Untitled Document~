@@ -1,0 +1,2 @@
+#!/bin/sh
+./knn -tr texture/RAMBP/RAMBP_train.txt  -ts  texture/RAMBP/RAMBP_test.txt  -k 1
