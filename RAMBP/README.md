@@ -14,6 +14,7 @@ For using the RAMBP with an image:
        
 <br/>
 <br/>
+
 For using the RAMBP with a folder that contains many classes of textures:
 * RAMBP_main(dirname,infile, outfile)<br/>
 * Where :
