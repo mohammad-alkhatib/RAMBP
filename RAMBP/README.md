@@ -11,6 +11,7 @@ For using the RAMBP with an image:
   * 'h' or 'hist'  to get a histogram of RAMBP 
   * 'nh'           to get a normalized histogram
        
+       
 
 For using the RAMBP with a folder that contains many classes of textures:
 * RAMBP_main(dirname,infile, outfile)<br/>
