@@ -26,6 +26,6 @@ For using the RAMBP with a folder that contains many classes of textures:
     * second_image_name second_image_class
     * .....        
     * last_image_name last_image_class
-  * outfile to generate a txt file where are the results will be saved.
+  * outfile to generate a txt file where the results will be saved.
 
        
